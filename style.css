@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background-color:peachpuff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #output
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 20px;
+color: black;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  border-radius: 10px;
+  font-size: 25px;
+  letter-spacing: 5px;
+  font-family: 'Benne', serif;
+} 
+
+button{
+  margin-top: 30px;
+}
+
+label{
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+font-family: 'Oswald', sans-serif;
+}
